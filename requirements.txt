@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+PyPDF2
+langchain==0.3.14 
+langchain-community==0.3.14 
+langchain-core==0.3.29 
+langchain-groq==0.2.3
+sentence-transformers
+faiss-cpu
+
+
+
+
+
+
+
+
